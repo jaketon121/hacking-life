@@ -5,3 +5,7 @@ Olive oil works
 
 ### Too big hole in your wall
 Fill it with a tissue/Zewa and put some gypsum on it
+
+### Never know whether the bathroom is being used or not
+Construct a basic circuit with a LED and design it to light up when the door is locked
+
