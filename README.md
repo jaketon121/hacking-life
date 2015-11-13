@@ -1,7 +1,10 @@
 # Stepping through life
 
+### Your door keeps hitting the hallway
+Put a shim on the element that connects the door with the doorway
+
 ### Your door makes creepy noises
-Olive oil works 
+Olive oil works
 
 ### Too big hole in your wall
 Fill it with a tissue/Zewa and put some gypsum on it
