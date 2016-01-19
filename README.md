@@ -14,3 +14,6 @@ Construct a basic circuit with a LED and design it to light up when the door is 
 
 ### Your boss stalks you on GitHub
 Pay for GitHub and make your repos private
+
+### Your white Apple Watch band or iPhone Silicone Case becomes grayish
+Clean it with Mr. Clean Magic Eraser (german: Meister Proper Schmutzradierer)
