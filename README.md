@@ -17,3 +17,12 @@ Pay for GitHub and make your repos private
 
 ### Your white Apple Watch band or iPhone Silicone Case becomes grayish
 Clean it with Mr. Clean Magic Eraser (german: Meister Proper Schmutzradierer)
+
+### Hate cleaning up when coming dead-tired home 
+Clean as you go
+
+### Hard to keep on track with stuff you want to do
+Avoid saying "I think," and "I believe"
+
+### Are you likely to forget a name
+When someone tells you their name, say it out loud back to them. e.g. "It's nice to meet you John." You're far more likely to recall their name on your next meeting.
